@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-You can view the live site here: **[ayvian-17/BarqHub.github.io](https://ayvian-17.github.io/Barq_Hub.github.io/)** *(Note: Update with your exact GitHub Pages live URL)*
+You can view the live site here: **[ayvian-17/Barq_Hub.github.io](https://ayvian-17.github.io/Barq_Hub.github.io/)** *(Note: Update with your exact GitHub Pages live URL)*
 
 ---
 
@@ -58,7 +58,7 @@ Barq Hub/
    ```
 2. **Navigate to the Directory**:
    ```bash
-   cd BarqHub.github.io
+   cd Barq_Hub.github.io
    ```
 3. **Open the project**:
    - Double-click `index.html` to open it in your browser.

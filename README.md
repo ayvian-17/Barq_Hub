@@ -54,7 +54,7 @@ Barq Hub/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ayvian-17/BarqHub.github.io.git
+   git clone https://github.com/ayvian-17/Barq_Hub.github.io.git
    ```
 2. **Navigate to the Directory**:
    ```bash
